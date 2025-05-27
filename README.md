@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Software engineering
   
 - 📫 How to reach me zainsantos21@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I'm left footed
+
 
 <!---
 Santos-dev-tech/Santos-dev-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
