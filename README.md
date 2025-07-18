@@ -1,43 +1,82 @@
-Hi there, I'm Santos! 👋
-Aspiring Software Engineer | Passionate about Interactive Web Experiences
+# 👋 Hi there, I'm Santos!
+
+**Aspiring Software Engineer | Passionate about Interactive Web Experiences**
+
 I'm a dedicated and enthusiastic Software Engineering student with a keen interest in building dynamic, user-friendly, and highly interactive applications. My journey in software development is driven by a passion for problem-solving and creating impactful digital solutions that enhance user engagement.
 
-🌱 What I'm Currently Learning & Growing
+---
+
+## 🌱 What I'm Currently Learning & Growing
+
 My current focus is on solidifying my foundational knowledge in software engineering principles while expanding my expertise across the full stack. I am constantly exploring new technologies and best practices to build robust and scalable applications.
 
-💻 My Tech Stack & Tools
-Here's a snapshot of the technologies and tools I'm proficient with and actively using:
+---
 
-Frontend Development:
+## 💻 My Tech Stack & Tools
 
-Backend Development:
+### 🚧 Frontend Development  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
+</p>
 
-Databases:
+### 🧠 Backend Development  
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
+</p>
 
-DevOps & Version Control:
+### 🗃️ Databases  
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
+</p>
 
-🚀 My Projects
-Here are some of the projects I've been working on, showcasing my skills in building interactive applications:
+### ⚙️ DevOps & Tools  
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+</p>
 
-[Project Name 1]: A brief description of the project, highlighting technologies used and key features.
+---
 
-Link to Repository
+## 🚀 My Projects
 
-Link to Live Demo (if applicable)
+### 🔹 [Project Name 1]
+_A brief description of the project, highlighting technologies used and key features._
 
-[Project Name 2]: Another brief description.
+- 🔗 [Repository](#)
+- 🌐 [Live Demo](#)
 
-Link to Repository
+---
 
-Link to Live Demo (if applicable)
+### 🔹 [Project Name 2]
+_A brief description of the project, highlighting technologies used and key features._
 
-(Add more projects here!)
+- 🔗 [Repository](#)
+- 🌐 [Live Demo](#)
 
-📫 Let's Connect!
+_(Add more projects here!)_
+
+---
+
+## 📫 Let's Connect!
+
 I'm always open to collaborating on interesting projects, discussing new technologies, or exploring potential opportunities. Feel free to reach out!
 
-Email: zainsantos21@gmail.com
+- 📧 Email: [zainsantos21@gmail.com](mailto:zainsantos21@gmail.com)  
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/santos-dev) _(replace with your actual URL)_
 
-LinkedIn: [Your LinkedIn Profile URL Here (e.g., https://www.google.com/search?q=https://www.linkedin.com/in/santos-dev)] (Highly Recommended!)
+---
 
-Thank you for visiting my GitHub profile!
+**Thanks for visiting my GitHub profile! 🚀**
+
