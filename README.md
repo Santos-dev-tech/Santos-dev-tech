@@ -51,11 +51,11 @@ My current focus is on solidifying my foundational knowledge in software enginee
 
 ## 🚀 My Projects
 
-### 🔹 [Project Name 1]
+### 🔹 [Beauty Express]
 _A brief description of the project, highlighting technologies used and key features._
 
-- 🔗 [Repository](#)
-- 🌐 [Live Demo](#)
+- 🔗 [https://github.com/Santos-dev-tech/Final-prototype.git](#)
+- 🌐 [https://beauty-express-8yuhrx41w-santos-projects-dc6e8699.vercel.app](#)
 
 ---
 
