@@ -62,11 +62,8 @@ _A brief description of the project, highlighting technologies used and key feat
 ### 🔹 [Project Name 2]
 _A brief description of the project, highlighting technologies used and key features._
 
-- 🔗 [Repository](#)
-- 🌐 [Live Demo](#)
-
-_(Add more projects here!)_
-
+- 🔗 [https://github.com/Santos-dev-tech/builder-pixel-nest.git](#)
+- 🌐 [https://szn-by-suzie.vercel.app](#)
 ---
 
 ## 📫 Let's Connect!
