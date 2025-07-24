@@ -59,7 +59,7 @@ _A brief description of the project, highlighting technologies used and key feat
 
 ---
 
-### 🔹 [Project Name 2]
+### 🔹 [Szn by suzie]
 _A brief description of the project, highlighting technologies used and key features._
 
 - 🔗 [https://github.com/Santos-dev-tech/builder-pixel-nest.git](#)
