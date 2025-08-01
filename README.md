@@ -71,7 +71,7 @@ _A brief description of the project, highlighting technologies used and key feat
 I'm always open to collaborating on interesting projects, discussing new technologies, or exploring potential opportunities. Feel free to reach out!
 
 - 📧 Email: [zainsantos21@gmail.com](mailto:zainsantos21@gmail.com)  
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/santos-dev) _(replace with your actual URL)_
+- 💼 LinkedIn: [Your LinkedIn Profile](zain.santos@student.moringaschool.com)
 
 ---
 
