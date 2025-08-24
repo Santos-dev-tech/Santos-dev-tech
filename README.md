@@ -52,7 +52,7 @@ My current focus is on solidifying my foundational knowledge in software enginee
 ## 🚀 My Projects
 
 ### 🔹 [Beauty Express]
-_A brief description of the project, highlighting technologies used and key features._
+_A brief description of the project, highlighting technologies used and key features.
 
 - 🔗 [https://github.com/Santos-dev-tech/Final-prototype.git](#)
 - 🌐 [https://beauty-express-8yuhrx41w-santos-projects-dc6e8699.vercel.app](#)
@@ -61,6 +61,7 @@ _A brief description of the project, highlighting technologies used and key feat
 
 ### 🔹 [Szn by suzie]
 _A brief description of the project, highlighting technologies used and key features._
+
 
 - 🔗 [https://github.com/Santos-dev-tech/builder-pixel-nest.git](#)
 - 🌐 [https://szn-by-suzie.vercel.app](#)
