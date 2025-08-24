@@ -10,7 +10,7 @@ I'm a dedicated and enthusiastic Software Engineering student with a keen intere
 
 My current focus is on solidifying my foundational knowledge in software engineering principles while expanding my expertise across the full stack. I am constantly exploring new technologies and best practices to build robust and scalable applications.
 
----
+--
 
 ## 💻 My Tech Stack & Tools
 
@@ -71,7 +71,9 @@ _A brief description of the project, highlighting technologies used and key feat
 I'm always open to collaborating on interesting projects, discussing new technologies, or exploring potential opportunities. Feel free to reach out!
 
 - 📧 Email: [zainsantos21@gmail.com](mailto:zainsantos21@gmail.com)  
-- 💼 LinkedIn: [Your LinkedIn Profile](zain.santos@student.moringaschool.com)
+- 💼 linkedin:
+-
+- (zain.santos@student.moringaschool.com)
 
 ---
 
