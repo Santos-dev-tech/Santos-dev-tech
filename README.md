@@ -52,7 +52,7 @@ My current focus is on solidifying my foundational knowledge in software enginee
 ## 🚀 My Projects
 
 ### 🔹 [Beauty Express]
-_A brief description of the project, highlighting technologies used and key features._
+_An e-commerce platform for beauty products, built with React and Tailwind CSS. Includes features like product search, responsive design, and cart functionality.
 
 - 🔗 [https://github.com/Santos-dev-tech/Final-prototype.git](#)
 - 🌐 [https://beauty-express-8yuhrx41w-santos-projects-dc6e8699.vercel.app](#)
